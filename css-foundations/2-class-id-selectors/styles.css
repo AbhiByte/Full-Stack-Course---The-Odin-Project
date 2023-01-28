@@ -1,0 +1,16 @@
+.pclass{
+    color: black;
+    background-color: rgb(241, 169, 180);
+  }
+ .number-two{
+    color: blue;
+    font-size: 45px;
+}
+.num3{
+    font-size: 30px;
+}
+.num-4{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(6, 250, 6);
+}

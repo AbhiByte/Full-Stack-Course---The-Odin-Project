@@ -1,2 +1,3 @@
 # Full-Stack-Course-The-Odin-Project
-Notes and Reference for The Odin Project Full Stack JS Course
+Notes and Reference for The Odin Project Full Stack JS Course.
+Started Jan 2023. Finished...

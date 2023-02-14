@@ -1,27 +1,12 @@
 .header {
-  background: #1F2937;
-  border-bottom: 1px solid #ddd;
-  color: white;
-  display: flex;
+  background-color: #1f2937;
+  padding: 1em 13em;
 } 
+#logo{
+  font-size: 24px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
 
 
-a {
-    /* this removes the line under our links */
-    text-decoration: none;
-    color: white;
-  
-
-  }
-  
-  ul {
-    list-style-type: none;
-    display: flex;
-
-  }
-  body {
-    margin: 0;
-    background: #eee;
-    font-family: Besley, serif;
-  }
   

@@ -1,9 +1,27 @@
+.header {
+  background: #1F2937;
+  border-bottom: 1px solid #ddd;
+  color: white;
+  display: flex;
+} 
+
+
 a {
     /* this removes the line under our links */
     text-decoration: none;
-    color: rebeccapurple;
+    color: white;
+  
+
   }
   
   ul {
     list-style-type: none;
+    display: flex;
+
   }
+  body {
+    margin: 0;
+    background: #eee;
+    font-family: Besley, serif;
+  }
+  

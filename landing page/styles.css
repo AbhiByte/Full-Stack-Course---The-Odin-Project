@@ -12,5 +12,61 @@
   background-position: center;
   padding: 10px 8%;
 }
+nav{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+
+}
+.logo{
+  width: 120px;
+  cursor: pointer;
+}
+nav ul{
+  list-style: none;
+  width: 100%;
+  text-align: right;
+  padding-right: 30px;
+}
+nav ul li{
+  display: inline-block;
+  margin: 10px 20px;
+}
+nav ul li a{
+  color: #fff;
+  text-decoration: none;
+}
+nav ul li a:hover{
+  color: red;
+  transition: 0.2s;
+}
+.btn{
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  background: rgb(216, 31, 31);
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: darkred;
+  transition: 0.2s;
+}
+.btn .info{
+  width: 20px;
+  margin-right: 10px;
+}
+.content_s1{
+  color: azure;
+}
+.fingertips{
+  font-family: fantasy;
+}
 
   

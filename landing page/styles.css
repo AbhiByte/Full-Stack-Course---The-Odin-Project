@@ -64,9 +64,40 @@ nav ul li a:hover{
 }
 .content_s1{
   color: azure;
+  margin-top: 10%;
+  max-width: 620px;
+}
+.toptext{
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 80px;
+  margin-bottom: 10px;
 }
 .fingertips{
   font-family: fantasy;
+  font-size: 50px;
+  line-height: 50px;
+  margin-bottom: 50px;
+}
+.content_s1 form{
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+.content_s1 form input{
+  border: 0;
+  outline: 0;
+  width: 100%;
+  font-size: 16px;
+  padding-left: 10px;
+}
+.content_s1 form .btn{
+  font-size: 15px;
+  padding: 10px 30px;
 }
 
   

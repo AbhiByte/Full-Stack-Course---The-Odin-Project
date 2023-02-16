@@ -4,9 +4,9 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
-.container{
+.sec1{
   width: 100%;
-  min-height:60vh;
+  min-height:65vh;
   background-image: linear-gradient(rgba(9,0,77,0.65),rgba(9,0,77,0.65)), url(imgs/background_img.png);
   background-size: cover;
   background-position: center;
@@ -48,7 +48,7 @@ nav ul li a:hover{
   padding: 10px 20px;
   border: 0;
   outline: 0;
-  border-radius: 5px;
+  border-radius: 20px;
   background: rgb(216, 31, 31);
   color: white;
   font-weight: 500;
